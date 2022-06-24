@@ -1,3 +1,2 @@
-- 👋 Hi, I’m fubin , a java developer in china on shanghai. 
+- 👋 Hi, I’m fubin , 学如逆水行舟，不进则退. 
 
-docsify文档：可单独部署 https://docsify.js.org/#/zh-cn/embed-files
